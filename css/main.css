@@ -1,6 +1,6 @@
 html, body {
     background: #000;
-    font-family:"Oxygen";
+    font-family: "Oxygen";
     font-weight:300;
     margin: 0;
     padding: 0;
@@ -80,5 +80,6 @@ img {
 .footer ul {
     color:#0393ff;
     list-style:none;
-    padding-left:0px;
+    padding-left:0;
 }
+
